@@ -1,0 +1,18 @@
+  /* ---------------------------------- Lightbox Styles ---------------------------------- */
+	#lightbox {
+		background:#333;
+		height:100%;
+		width:100%;
+		z-index:1000;
+		position:absolute;
+		float:left;
+		opacity: 0.5;
+	}
+	#lightboxcore {
+		background:#FFF;
+		z-index:1001;
+		border: 5px solid #226EA7;
+		position:absolute;
+
+		border-radius: 15px;
+	}
